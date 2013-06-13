@@ -1,4 +1,11 @@
 **.o
 *.a
+*.in
+aclocal.m4
+autom4te.cache
+.deps
 gpiommap
 .DS_Store
+config.log
+config.status
+configure
